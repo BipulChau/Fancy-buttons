@@ -5,7 +5,7 @@ import LightSwitchButton from "./components/LightSwitchButton";
 import TextRepeaterButton from "./components/TextRepeaterButton";
 
 function App() {
-  return <div className="App">
+  return <div className="App dark">
     <h1>Fancy Buttons!</h1>
     <section>
       <AngryButton/>
